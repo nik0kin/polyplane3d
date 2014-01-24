@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Levels.js">
+    <Files>
+      <File FileName="Assets\Standard Assets\KinectMovePlayer.cs" Line="42" Column="3" />
+      <File FileName="Assets\MainMenu.cs" Line="83" Column="9" />
+      <File FileName="Assets\Scripts\GameMan.js" Line="88" Column="37" />
+      <File FileName="Assets\Scripts\Field.js" Line="509" Column="9" />
+      <File FileName="Assets\Scripts\Levels.js" Line="40" Column="22" />
+      <File FileName="Assets\Standard Assets\Cooldown.cs" Line="41" Column="32" />
+      <File FileName="Assets\Scripts\RandomSpin.cs" Line="23" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

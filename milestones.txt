@@ -1,0 +1,11 @@
+MS1 - 12:18 -  make movement things (w,a,s,d) and view above level & below
+MS2 -  1:25 - connect movement things to game
+
+MS3 -  2:13 - view above level & below
+
+MS4 -  3:00 - level menu
+MS5 - add treasure hunter timed mode
+
+MS6 - skybox (stars)
+
+MS7 - another level
